@@ -12,13 +12,13 @@
 
 https://razupa.github.io/#projects
 
-<b>Java (Object-Oriented Programming & Applications)</b>
+<h2> 🕹️ Java (Object-Oriented Programming & Applications)</h2>
 
 - RPG Battle Game
 
 - Game Score System
 
-<b>Java (Console-Based Utilities & Simulations)</b>
+<h2> 💻 Java (Console-Based Utilities & Simulations) </h2>
 
 - ATM Simulator
 
@@ -27,7 +27,7 @@ https://razupa.github.io/#projects
 - Print Table 
 
 
-<b>Java (Mathematical & Technical Applications)</b>
+<h2> 🧮 Java (Mathematical & Technical Applications)</b></h2>
 
 - Electric Car Battery Charger
 
