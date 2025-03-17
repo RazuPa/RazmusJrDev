@@ -9,22 +9,22 @@
            
 <b>Java (Object-Oriented Programming & Applications)</b>
 
-- RPG Battle Game
+- RPG Battle Game - https://razupa.github.io/#projects
 
-- Game Score System 
+- Game Score System - https://razupa.github.io/#projects
 
 <b>Java (Console-Based Utilities & Simulations)</b>
 
-- ATM Simulator 
+- ATM Simulator - https://razupa.github.io/#projects
 
-- Calculator 
+- Calculator - https://razupa.github.io/#projects
 
-- Print Table 
+- Print Table - https://razupa.github.io/#projects
 
 
 <b>Java (Mathematical & Technical Applications)</b>
 
-- Electric Car Battery Charger
+- Electric Car Battery Charger - https://razupa.github.io/#projects
 
 
 <h2>📜 Certifications </h2>
